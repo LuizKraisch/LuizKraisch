@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey! :) 👋
 
-<!--
-**LuizKraisch/LuizKraisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm Luiz. I am a development trainee at Euax in Brazil. 🖥️
 
-Here are some ideas to get you started:
+* I'm majoring in Software Engineering at Católica University in Joinville, SC. 📜
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I love UI/UX and i have a porfolio: https://www.behance.net/luizkraisch 🔘
+
+### You can see more about me here: https://www.linkedin.com/in/luizkraisch 👽
+
+
+
+
+
+
+
+
