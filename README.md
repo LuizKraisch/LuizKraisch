@@ -6,7 +6,7 @@
 
 * I love UI/UX and i have a porfolio: https://www.behance.net/luizkraisch 🔘
 
-### You can see more about me here: https://www.linkedin.com/in/luizkraisch 👽
+### You can find more about me here: https://www.linkedin.com/in/luizkraisch 👽
 
 
 
