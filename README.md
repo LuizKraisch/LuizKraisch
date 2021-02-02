@@ -8,6 +8,8 @@
 
 ### You can find more about me here: https://www.linkedin.com/in/luizkraisch 👽
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizKraisch&show_icons=true" alt="LuizKraisch" /></p>
+
 
 
 
