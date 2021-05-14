@@ -1,6 +1,6 @@
 ### Hey! :) 👋
 
-* I'm Luiz. I am a development trainee at Euax in Brazil. 🖥️
+* I'm Luiz. I am a Full Stack Developer at Euax in Brazil. 🖥️
 
 * I'm majoring in Software Engineering at Católica University in Joinville, SC. 📜
 
