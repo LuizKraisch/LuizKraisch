@@ -1,0 +1,13 @@
+{
+  "name": "luizkraisch",
+  "version": "1.1.0",
+  "description": "My personal information :)",
+  "main": "kraisch.js",
+  "bin": "./kraisch.js",
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Luiz Kraisch",
+  "license": "MIT"
+}
