@@ -2,7 +2,7 @@
 
 🖥️ Full Stack Developer at **Trusted Health**.
 
-📜 Attending in **Software Engineering** at Católica University in Joinville, Brazil.
+📜 Studying **Software Engineering** at Católica University in Joinville, Brazil.
 
 Run `npx luizkraisch` to see more info about me! 👽
 
