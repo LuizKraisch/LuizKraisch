@@ -1,6 +1,6 @@
 ### Hey! I'm Luiz ʕ•́ᴥ•̀ʔっ♡
 
-🖥️ Full Stack Developer at **Trusted Health**.
+🖥️ Software Engineer at **Trusted Health**.
 
 📜 Studying **Software Engineering** at Católica University in Joinville, Brazil.
 
