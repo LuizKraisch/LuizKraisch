@@ -2,8 +2,12 @@
 
 🖥️ Software Engineer at **Trusted Health**.
 
-📜 Studying **Software Engineering** at Católica University in Joinville, Brazil.
+📜 I hold a Bachelor's degree in **Software Engineering** from Catholic University.
 
-Run `npx luizkraisch` to see more info about me! 👽
+🌎 You can talk with me in English or Portugese (and maybe in Spanish as well).
 
-###### Also, credits to [Carolis](https://github.com/Carolis) for the package inspiration!
+🔠 Let's discuss about: Ruby on Rails, React, Flutter, UX & UI, Unreal & Unity Engines, Python and more!
+
+Run `npx luizkraisch` to see more info about me. 👽
+
+###### Feel free to reach out, let's chat!
