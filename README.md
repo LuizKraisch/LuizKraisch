@@ -2,7 +2,7 @@
 
 🖥️ Software Engineer at **Trusted Health**.
 
-📜 I hold a Bachelor's degree in **Software Engineering** from Catholic University.
+📜 I hold a Bachelor's degree in **Software Engineering** from Católica de Santa Catarina (Catholic University).
 
 🌎 You can talk with me in English or Portugese (and maybe in Spanish as well).
 
